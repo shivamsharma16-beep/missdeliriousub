@@ -4,7 +4,7 @@
 
 ![logo512 copy 2](https://telegra.ph/file/d6e6b1fcf3252659923fd.jpg)
  
-Miss Delirious Userbot is an open source Telegram user bot with built-in web based administration and 🤣5 dashboard which gives you ability to manage your user bot, install plugins, add custom commands and more.
+Miss Delirious Userbot is an open source Telegram user bot with built-in web based administration and dashboard which gives you ability to manage your user bot, install plugins, add custom commands and more.
   
 
 
